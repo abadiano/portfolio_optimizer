@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Portfolio Optimization Tool
 
 This project is a portfolio optimization tool that fetches historical stock data, calculates performance metrics, and optimizes portfolio allocations to maximize returns and minimize risk.
@@ -26,4 +24,3 @@ This project is a portfolio optimization tool that fetches historical stock data
    ```bash
    git clone https://github.com/your-username/your-repository-name.git
    cd your-repository-name
->>>>>>> master
